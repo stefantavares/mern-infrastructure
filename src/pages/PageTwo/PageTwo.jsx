@@ -1,6 +1,6 @@
 function NewOrderPage() {
     return(
-        <h1>New Order Page</h1>
+        <h1>Page Two</h1>
     )
 }
 
